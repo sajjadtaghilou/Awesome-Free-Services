@@ -17,7 +17,7 @@ software engineering courses
 -------
 - [udacity - FREE ACCESS for 30 days](https://www.udacity.com/)
 
-- [elastic -](https://training.elastic.co/learn-from-home/)
+- [elastic](https://training.elastic.co/learn-from-home/)
 
 
 
