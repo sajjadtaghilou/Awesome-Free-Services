@@ -24,5 +24,9 @@ software engineering courses
 
 - [elastic](https://training.elastic.co/learn-from-home/)
 
+animation
+-------
+- [creatureartteacher](https://creatureartteacher.com/)
+
 
 
