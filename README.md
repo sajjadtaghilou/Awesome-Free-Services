@@ -5,7 +5,12 @@
 Introduction
 ------------
 
-There is a ist of Services Freebies That Companies Are Offering During the Coronavirus Pandemic
+There is a ist of Services Freebies That Companies Are Offering During the Coronavirus Pandemic.
+
+
+Thank you for all the assistance you have provided me during this repo. I appreciate the information and advice you have given, as well as the connections you have shared with me. Your expertise and help have been invaluable during this process. Again, thank you so much.
+
+ [Erfan](https://twitter.com/Erfan_Mrk)
 
 
 Others
