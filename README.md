@@ -13,6 +13,8 @@ Others
 - [Here are 450 Ivy League courses you can take online right now for free
 ](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 - [coursera](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19)
+- [Getting Bored? Here's A List Of Free Things That Weren't Free Before Coronavirus](https://www.npr.org/2020/03/20/818670715/getting-bored-heres-a-list-of-free-things-that-werent-free-before-coronavirus?t=1584802858090)
+
 
 
 
