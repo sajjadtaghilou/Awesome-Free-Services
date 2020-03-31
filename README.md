@@ -7,4 +7,12 @@ Introduction
 
 There is a lot of List of Services Freebies That Companies Are Offering During the Coronavirus Pandemic
 
+
+Books and papers
 -------
+- [Blinkist ](https://www.blinkist.com/)
+- [Cambridge University -  Press makes 700 textbooks free](https://www.cambridge.org/core/what-we-publish/textbooks)
+
+software engineering courses
+-------
+- [udacity - FREE ACCESS for 30 days](https://www.udacity.com/)
