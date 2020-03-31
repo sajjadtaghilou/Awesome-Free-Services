@@ -8,7 +8,7 @@ Introduction
 There is a ist of Services Freebies That Companies Are Offering During the Coronavirus Pandemic.
 
 
-Thank you for ( [Erfan](https://twitter.com/Erfan_Mrk) [Pedram](https://twitter.com/iampedii) [Amir](https://twitter.com/serpicoo__)) all the assistance you have provided me during this repo. I appreciate the information and advice you have given, as well as the connections you have shared with me. Your expertise and help have been invaluable during this process. Again, thank you so much.
+Thank you for ( [Erfan](https://twitter.com/Erfan_Mrk) [Pedram](https://twitter.com/iampedii) [Amir](https://twitter.com/serpicoo__)) and all the assistance you have provided me during this repo. I appreciate the information and advice you have given, as well as the connections you have shared with me. Your expertise and help have been invaluable during this process. Again, thank you so much.
 
 
 Others
