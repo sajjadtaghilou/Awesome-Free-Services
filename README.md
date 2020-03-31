@@ -10,7 +10,7 @@ There is a ist of Services Freebies That Companies Are Offering During the Coron
 
 Others
 -------
-- Here are 450 Ivy League courses you can take online right now for free
+- [Here are 450 Ivy League courses you can take online right now for free
 ](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 
 Books and papers
