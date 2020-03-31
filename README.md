@@ -5,7 +5,7 @@
 Introduction
 ------------
 
-There is a lot of List of Services Freebies That Companies Are Offering During the Coronavirus Pandemic
+There is a ist of Services Freebies That Companies Are Offering During the Coronavirus Pandemic
 
 
 Books and papers
