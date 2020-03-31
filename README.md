@@ -10,7 +10,7 @@ There is a lot of List of Services Freebies That Companies Are Offering During t
 
 Books and papers
 -------
-- [Blinkist ](https://www.blinkist.com/)
+- [Blinkist - Free access until 25th April](https://www.blinkist.com/)
 - [Cambridge University -  Press makes 700 textbooks free](https://www.cambridge.org/core/what-we-publish/textbooks)
 
 software engineering courses
