@@ -27,7 +27,7 @@ Books and papers
 software engineering courses
 -------
 - [udacity - FREE ACCESS for 30 days](https://www.udacity.com/)
-
+- [codecademy](https://pro.codecademy.com/learn-from-home/?utm_source=contentful_banner&utm_medium=referral&utm_campaign=learn_from_home)
 - [elastic](https://training.elastic.co/learn-from-home/)
 
 animation
