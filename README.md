@@ -8,6 +8,11 @@ Introduction
 There is a ist of Services Freebies That Companies Are Offering During the Coronavirus Pandemic
 
 
+Others
+-------
+- Here are 450 Ivy League courses you can take online right now for free
+](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
+
 Books and papers
 -------
 - [Blinkist - Free access until 25th April](https://www.blinkist.com/)
